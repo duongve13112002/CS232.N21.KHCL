@@ -6,7 +6,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center"><b>TÍNH TOÁN ĐA PHƯƠNG TIỆN<br>(FUNDAMENTALS OF MULTIMEDIA)</b></h>
+<h1 align="center"><b>TÍNH TOÁN ĐA PHƯƠNG TIỆN<br>(INTRODUCTION TO MULTIMEDIA COMPUTING)</b></h>
 
 <!-- Main -->
 # Thành viên nhóm:
