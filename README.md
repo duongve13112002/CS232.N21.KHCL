@@ -20,4 +20,4 @@
 * **Mã môn học:** CS232
 * **Mã lớp:** CS232.N21.KHCL
 * **Năm học:** HK2 (2022 - 2023)
-* **Giảng viên**: Đỗ Văn Tiến
+* **Giảng viên**: TS. Đỗ Văn Tiến
